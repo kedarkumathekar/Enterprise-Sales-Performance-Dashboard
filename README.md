@@ -3,7 +3,9 @@
 ## Project Overview
 This repository contains a full-scale Power BI implementation designed to deliver a single-page executive sales dashboard for Quarterly Business Reviews (QBR). The project processes fragmented multi-year sales directories, automates analytical data cleaning via low-level M functions, standardizes geospatial data types, structures a strict star-schema model, and outputs advanced time-intelligence metrics via DAX.
 
----
+### Dashboard Preview:
+<img width="592" height="576" alt="image" src="https://github.com/user-attachments/assets/a79a1674-2643-4df9-b9bb-38712a2322aa" />
+
 
 ## Technical Specifications & Requirements
 
